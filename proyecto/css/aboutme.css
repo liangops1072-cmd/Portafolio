@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: 600;
+    
+}
+nav {
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 500;
+}
+.nav-div, .logo{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(30, 56, 81);
+}
+
+.nav-div:hover {
+  color: #59A9C9;
+}
+main{
+    display: flex;
+    justify-content: left;
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: 25px;
+}
+.info-personal {
+    height: 300px; 
+    width: 60%;
+    margin: 2% 2%;
+}
+
+.info,li {
+    font-weight: 400;
+}
+
+.fotopersonal{
+    margin: 0;
+    margin: 3% 0px;
+    height: 350px;
+    border-radius: 10px;
+}
+li{
+    padding: 5px;
+}
+
